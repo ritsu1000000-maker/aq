@@ -1,0 +1,9 @@
+Render > Environment に以下を設定してください。
+
+DISCORD_TOKEN=
+GUILD_ID=
+ADMIN_USER_ID=
+ADMIN_CHANNEL_ID=
+
+※ このファイルに実際のトークンを書いてGitHubへ公開しないでください。
+※ ADMIN_CHANNEL_ID は省略可能です。
